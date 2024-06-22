@@ -3,7 +3,6 @@
 namespace App\Providers;
 
 use App\CQRS\Providers\CQRSServiceProvider;
-use App\Product\Providers\ProductServiceProvider;
 use Illuminate\Support\ServiceProvider;
 
 class AppServiceProvider extends ServiceProvider
